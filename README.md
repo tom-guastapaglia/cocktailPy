@@ -1,0 +1,4 @@
+# Commandes
+- ```createsuperuser```
+- ```makemigrations```
+- ```migrate```
